@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Article List</title>
+         <link rel="stylesheet" href="template.css" />
+         <script src="solution.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="parent-div">
+                <div class="headers">
+                    <h1>Intro to DOM</h1>
+                    <h4>Article list</h4>
+                </div>
+                <div class="img">
+                    <img id="logo-img" src="images/logo.png" alt="logo">
+                </div>
+            </div>
+        </header>
+        <main id="main">
+            <div class="create-article">
+                <h3>Title</h3>
+                <input type="text" id="createTitle">
+                <h3>Content</h3>
+                <textarea id="createContent" cols="22" rows="20"></textarea><br><br>
+                <button id="create-bnt" onclick="solve()">Create it</button>
+            </div>
+            <div id="article-list" class="article-list">
+                <h1><u>Article List</u></h1>
+            </div>
+           <div class="logo-img-wizard">
+                <img id="logo-img-wizard" src="images/wizard.png" alt="logo">
+            </div>
+        </main>    
+        </script>
+    </body>
+</html>
