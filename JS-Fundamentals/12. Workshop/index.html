@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Softuni Wizard</title>    
+</head>
+<body>
+    <div class="game-section">
+        <div class="game-score">
+            <span>0</span>
+            <span>points</span>
+        </div>
+        <div class="game-start">
+            Press to start
+        </div>
+        <div class="game-area">
+            
+        </div>
+        <div class="game-over hide">
+            
+        </div>
+    </div>
+</body>
+<script>
+  const gameStart = document.querySelector('.game-start');
+ const gameArea = document.querySelector('.game-area');
+ const gameOver = document.querySelector('.game-over');
+ const gameScore = document.querySelector('.game-score span');
+ 
+ gameStart.addEventListener('click', onGameStart);
+ document.addEventListener('keydown', onKeyDown);
+ document.addEventListener('keyup', onKeyUp);
+
+ let keys = {};
+ let player = {
+     x: 150,
+     y: 300,
+     width: 0,
+     height: 0,
+     lastTimeFiredFireball: 0,            
+ };
+ let scene = {
+      isActiveGame: true,
+      score: 0,
+      lastCloudSpawn: 0,
+      lastBugSpawn: 0,    
+ };
+ let game = {
+     speed: 5,
+     movingMultiplier:4,
+     fireInterval: 1000,
+     lastCloudSpawnInterval: 5000,
+     bugSpawnInterval : 1000,
+     bugKillBonus: 1000,
+ };
+
+ function onGameStart(){
+      gameStart.style.display = 'none';
+      const wizard = document.createElement('div');
+      wizard.classList.add('wizard');
+      wizard.style.top = player.y + 'px';
+      wizard.style.left = player.x + 'px';
+      player.height = 110;
+      player.width = 110;
+      gameArea.appendChild(wizard);
+      window.requestAnimationFrame(gameAction);
+ }       
+ function gameAction(timeStamp){
+       const wizard = document.querySelector('.wizard');
+                   
+       //Add bugs
+       if(timeStamp - scene.lastBugSpawn > game.bugSpawnInterval + 5000 *  Math.random()){
+          let bug = document.createElement('div');
+          bug.classList.add('bug');
+          bug.x = gameArea.offsetWidth - 60;
+          bug.style.left = bug.x + 'px';
+          bug.style.top = (gameArea.offsetHeight - 60) * Math.random() + 'px';
+
+          gameArea.appendChild(bug);
+          scene.lastBugSpawn = timeStamp;
+       }
+       //Modify bug positions
+       let bugs = document.querySelectorAll('.bug');
+       bugs.forEach(bug => {
+          bug.x -= game.speed * 3;
+          bug.style.left = bug.x + 'px';
+
+          if(bug.x + bug.offsetWidth <= 0){
+              bug.parentElement.removeChild(bug);
+          }
+       })
+
+
+      // Add clouds
+      if(timeStamp - scene.lastCloudSpawn > game.lastCloudSpawnInterval + 20000 *  Math.random()){
+          let cloud = document.createElement('div');
+          cloud.classList.add('cloud');
+          cloud.x = gameArea.offsetWidth - 200;
+          cloud.style.left = cloud.x + 'px';
+          cloud.style.top = (gameArea.offsetHeight - 200) * Math.random() + 'px';
+
+          gameArea.appendChild(cloud);
+          scene.lastCloudSpawn = timeStamp;
+      }
+
+      //Modify clouds
+      let clouds = document.querySelectorAll('.cloud');
+      clouds.forEach(cloud => {
+          cloud.x -= game.speed;
+          cloud.style.left = cloud.x + 'px';
+
+          if(cloud.x + clouds.offsetWidth <= 0){
+              cloud.parentElement.removeChild(cloud);
+          }
+      })
+
+      //Modify fireballs positions
+      let fireBalls = document.querySelectorAll('.fireball');
+      fireBalls.forEach(fireBall => {
+          fireBall.x += game.speed * game.movingMultiplier;
+          fireBall.style.left = fireBall.x + 'px';
+
+          if(fireBall.x + fireBall.offsetWidth + 1 > gameArea.offsetWidth){
+              fireBall.parentElement.removeChild(fireBall);                    
+          }
+      })
+
+       //Apply gravitation
+       let isInAir = (player.y + player.height) <= gameArea.offsetHeight;
+       if(isInAir){
+           player.y += game.speed;
+       }             
+
+       //Apply user input
+      if(keys.ArrowUp == true && player.y > 0){
+          player.y -= game.speed * game.movingMultiplier;
+      } 
+      if(keys.ArrowDown == true && isInAir){
+          player.y += game.speed * game.movingMultiplier;
+      }
+      if(keys.ArrowLeft == true && player.x > 0){
+          player.x -= game.speed * game.movingMultiplier;
+      }
+      if(keys.ArrowRight == true && player.width + player.x < gameArea.offsetWidth){
+          player.x += game.speed * game.movingMultiplier;
+      }
+      if(keys.Space && timeStamp - player.lastTimeFiredFireball > game.fireInterval){
+          wizard.classList.add('wizard-fire');
+          //Add FireBall
+          addFireBall(player);
+          player.lastTimeFiredFireball = timeStamp;
+      }else{
+          wizard.classList.remove('wizard-fire');
+      }
+
+      //Colision detection
+      let isCollisionVariable = bugs.forEach(bug => {
+          if(isCollision(wizard, bug)){
+              gameOverAction();
+          }
+          fireBalls.forEach(fireBall => {
+              if(isCollision(fireBall, bug)){
+                  scene.score += game.bugKillBonus;
+                  bug.parentElement.removeChild(bug);
+                  fireBall.parentElement.removeChild(fireBall);
+;                    }
+          });
+      });                   
+
+      wizard.style.top = player.y + 'px';
+      wizard.style.left = player.x + 'px';            
+      //Apply score
+      gameScore.innerHTML = scene.score;
+      if(scene.isActiveGame == true){
+          window.requestAnimationFrame(gameAction);
+      }
+ }
+ function isCollision(firstElement, secondElement){
+      let firstRect = firstElement.getBoundingClientRect();
+      let secondRect = secondElement.getBoundingClientRect();
+      return !(firstRect.top > secondRect.bottom || firstRect.bottom < secondRect.top || firstRect.right < secondRect.left || firstRect.left > secondRect.right);
+  }
+  function gameOverAction(){
+      scene.isActiveGame = false;
+      gameOver.classList.remove('hide');
+      gameOver.style.display = 'block';
+      let pElement = document.createElement('p');
+      pElement.textContent += `GAME OVER!\n`;
+      gameOver.appendChild(pElement);  
+      pElement.textContent += `Your Score: ${scene.score}`;
+      gameOver.appendChild(pElement);            
+      function sleep (time) {
+          return new Promise((resolve) => setTimeout(resolve, time));
+        }
+                      
+        sleep(5000).then(() => {
+          location.reload();
+        });
+  }
+ function addFireBall(player){
+      let fireBall = document.createElement('div');
+      fireBall.classList.add('fireball');   
+      fireBall.x = (player.x + player.width - 15);
+      fireBall.style.top = (player.y + player.height / 3 - 20) + 'px';
+      fireBall.style.left = fireBall.x + 'px';              
+      gameArea.appendChild(fireBall);
+ }
+ function onKeyDown(event){
+     event.preventDefault();
+      keys[event.code] = true;       
+ }
+ function onKeyUp(event){
+      keys[event.code] = false;
+ }
+</script>
+</html>
