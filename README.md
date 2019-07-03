@@ -8,6 +8,7 @@
       <li>Programming Basics - C#</li>
       <li>Technology Fundamentals - PHP</li> 
       <li>JS Fundamentals - JavaScript</li>
+      <li>JS Advanced - JavaScript</li>      
     </ul>
   </body>
 </html>
