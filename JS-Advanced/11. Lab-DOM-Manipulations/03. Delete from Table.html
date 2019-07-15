@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <table border="1" id="customers">
+        <tr><th>Name</th><th>Email</th></tr>
+        <tr><td>Eve</td><td>eve@gmail.com</td></tr>
+        <tr><td>Eve</td><td>eve@gmail.com</td></tr>
+        <tr><td>Nick</td><td>nick@yahooo.com</td></tr>
+        <tr><td>Didi</td><td>didi@didi.net</td></tr>
+        <tr><td>Tedy</td><td>tedy@tedy.com</td></tr>
+        </table>
+        Email: <input type="text" name="email" />
+        <button onclick="deleteByEmail()">Delete</button>
+        <div id="result" />
+        <script>
+            function deleteByEmail() {
+                console.log($('#customers tr'));  
+                let inputEmail = $('input[name= email]').val();
+                //$('#customers tr')[1].remove();
+                let index = 1;
+                let isDeleted = false;
+                $('#customers tr').each(function() {
+                    let email = $(this).find("td:odd").html();
+                    if(email === inputEmail){
+                        $('#customers tr')[index - 1].remove();
+                        isDeleted = true;
+                    }
+                    index++;                    
+                 });
+                 let resultDiv = $('#result');
+                 if(isDeleted){
+                     resultDiv.text('Deleted.');
+                 }else{
+                     resultDiv.text('Not found.');
+                 }
+            }
+        </script>
+</body>
+</html>
