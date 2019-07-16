@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sections</title>
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+  <style>
+    #content {
+      width: 1000px;
+    }
+
+    #content div {
+      float: left;
+      width: 300px;
+      height: 300px;
+      margin: 2em;
+      background: #5555ff;
+      text-align: center;
+    }
+
+    #content div p {
+      color: white;
+      margin: 6em 3em 6em 3em;
+    }
+  </style>
+</head>
+<div id="content">
+</div>
+<body onload="create(['Section 1', 'Section 2', 'Section 3', 'Section 4']);">
+<script>
+  function create(sentences) {
+      let $frameDiv = $('#content');
+    sentences.forEach(function(input){
+        let $divElement = $('<div>');
+        let $pElement = $('<p>').text(input);
+        $pElement.css('display', 'none');
+        $divElement.click(function(){
+            $pElement.css('display', 'block');
+        });
+        $divElement.append($pElement);
+        $frameDiv.append($divElement);
+    });
+  }
+</script>
+</body>
+</html>
