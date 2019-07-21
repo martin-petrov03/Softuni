@@ -1,9 +1,0 @@
-{
-  "name": "02. Softunify-Test.js",
-  "version": "0.0.1",
-  "dependencies": {
-    "chai": "^4.2.0",
-    "jquery": "^3.3.1",
-    "mocha": "^6.0.2"
-  }
-}
