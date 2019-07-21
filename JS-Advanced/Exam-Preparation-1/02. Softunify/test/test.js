@@ -1,4 +1,4 @@
-let SoftUniFy = require('../02. Softunify');
+const SoftUniFy = require('../02. Softunify');
 const assert = require('chai').assert;
 const expect = require('chai').expect;
 
