@@ -1,4 +1,4 @@
-const Calculator = require('../02.Calculator.js');
+const Calculator = require('../index.js');
 const assert = require('chai').assert;
 const expect = require('chai').expect;
 
