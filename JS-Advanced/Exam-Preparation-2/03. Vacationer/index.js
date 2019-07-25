@@ -95,9 +95,5 @@ vacationer1.addDestinationToWishList('Spain');
 vacationer1.addDestinationToWishList('Germany');
 vacationer1.addDestinationToWishList('Bali');
 
-// Return information about the vacationers
+// Print information about the vacationers
 console.log(vacationer1.getVacationerInfo());
-/*
-'Name: Tania Ivanova Zhivkova\n        ID Number: 203778\n        Wishlist:\n        empty\n        Credit Card:\n        Card Number: 123456789\n        Expiration Date: 10/01/2018\n        Security Number: 777' 
- 'Name: Tania Ivanova Zhivkova\nID Number: 203778\nWishlist:\nempty\nCredit Card:\nCard Number: 123456789\nExpiration Date: 10/01/2018\nSecurity Number: 777'
-*/
