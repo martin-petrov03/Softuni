@@ -6,9 +6,10 @@
     <h2>Courses</h2>
     <ul>
       <li>Programming Basics - C#</li>
-      <li>Technology Fundamentals - PHP</li> 
+      <li>Technology Fundamentals - PHP</li>
       <li>JS Fundamentals - JavaScript</li>
-      <li>JS Advanced - JavaScript</li>      
+      <li>JS Advanced - JavaScript</li>
+      <li>JS Applications - JavaScript</li>
     </ul>
   </body>
 </html>
