@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Blog</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <style>
+    @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+    body {
+        font-family: 'Open Sans', serif;
+    }
+    select {
+        padding: 10px 15px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+    button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    </style>
+</head>
+<body>
+    <h1>All Posts</h1>
+    <button id="btnLoadPosts">Load Posts</button>
+    <select id="posts"></select>
+    <button id="btnViewPost">View</button>
+    <h1 id="post-title">Post Details</h1>
+    <ul id="post-body"></ul>
+    <h2>Comments</h2>    
+    <script>
+       attachEvents();
+       function attachEvents(){
+           
+            $(() => {                
+                //load-posts btn
+                $('#btnLoadPosts').click(function(){
+                    loadPostsRequest()
+                    .then(response => response.json())
+                    .then(posts => {                        
+                        console.log(posts);
+                        for(let post of posts){
+                            let $currentOption = $(`<option value="${post._id}">${post.title}</option>`);
+                            $('#posts').append($currentOption);
+                        }                        
+                    });
+                    //.catch(error => console.error(error));
+                });
+
+                //emplement view functionality
+                $('#btnViewPost').click(function(){
+                    let selectedOption = $('#posts').find(":selected").text();
+                    loadPostsRequest()
+                    .then(response => response.json())
+                    .then(posts => {                        
+                        for(let post of posts){
+                            if(post.title == selectedOption){
+                                $('#post-body').append(`<li>${post.body}</li>`);
+                                break;
+                            }
+                        }
+                        
+                    });
+                    let comments = [];
+                    loadComments()
+                    .then(response => response.json())
+                    .then(comments => {
+                        let commentsArr = [];
+                        let $commentsUl = $('<ul id="post-comments">'); 
+                        for(let comment of comments){
+                            console.log(comment);
+                            if(!commentsArr.includes(comment.text)){
+                                let $li = $(`<li>`).text(comment.text);
+                                $commentsUl.append($li);
+                                commentsArr.push(comment.text);
+                            }                      
+                        }
+                        $('body').append($commentsUl);
+                    });
+
+                    
+                });
+
+                //loadPosts
+                function loadPostsRequest(){
+                    const kinveyAppId = "kid_S1htVfcmm";
+                    const serviceUrl = "https://baas.kinvey.com/appdata/" +
+                    kinveyAppId + '/posts';    
+
+                    let username = 'peter';
+                    let pass = 'p';
+                    const authHeaders = {"Authorization": "Basic " + btoa(username + ":" + pass)};
+
+                    return fetch(serviceUrl,{
+                        method: 'GET',
+                        headers: new Headers(authHeaders)
+                    });
+                }
+
+                //load Comments
+                function loadComments(){
+                    const kinveyAppId = "kid_S1htVfcmm";
+                    const serviceUrl = "https://baas.kinvey.com/appdata/" +
+                    kinveyAppId + '/comments';
+
+                    let username = 'peter';
+                    let pass = 'p';
+                    const authHeaders = {"Authorization": "Basic " + btoa(username + ":" + pass)};
+
+                    return fetch(serviceUrl,{
+                        method: 'GET',
+                        headers: new Headers(authHeaders)
+                    });
+                }
+            });
+       }
+    </script>
+</body>
+</html>
