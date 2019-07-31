@@ -1,0 +1,66 @@
+#results {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#results tr {
+    background-color: #AAAAAA;
+    padding: 5vh;
+    font-size: 1.5vw;
+}
+
+#results tr:nth-child(odd) {
+    background-color: #808080;
+}
+
+#results tr:first-child {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+#results tr th {
+    padding: 1vw;
+}
+
+#results tr td {
+    padding: 1vw;
+    transition: font-size 0.2s;
+}
+
+#results tr:not(:first-child):hover {
+    background-color: #F0F8FF;
+    color: #000000;
+    font-size: 2.25vw;
+}
+fieldset{   
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 80%;   
+}
+fieldset > span{
+    color: red;
+    font-size: 20px;
+}
+fieldset > input, label{
+    font-size: 20px;
+}
+
+#addBtn{
+    margin: 0 auto;
+    width: 50%;
+}
+#load{
+    display: inline-block;
+    float: right;
+    margin-top: 20px;    
+}
+#loadBtn{
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 50%;
+}
