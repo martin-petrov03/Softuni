@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(95, 141, 211); 
+}
+h1{
+    text-align: center;
+}
+#countries{
+    display: inline-block;
+    width: 100%;    
+    font-size: 25px;
+    text-align: center;
+    border: 1px solid black;
+}
+#country{
+    margin-top: 70px;
+    margin-left: 500px;
+    font-size: 30px;    
+}
+#buttons{    
+    margin-left: 500px;
+    width: 380px;
+    text-align: center;
+}
+button{
+    display: inline-block;
+    font-size: 30px;
+    width: 110px;
+}
+button:nth-child(2){
+    margin-left: 20px;
+}
