@@ -1,4 +1,4 @@
-const isOddOrEven = require('../02. Even-Odd');
+const isOddOrEven = require('./02. Even-Odd');
 const assert = require('chai').assert;
 
 describe('test general functionality and invalid input validation', function(){
