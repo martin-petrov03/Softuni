@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Timer</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <div id="time" style="border:3px solid blue; text-align:center; font-size:2em; margin-bottom:10px">00:00</div>
+    <button id="startBtn">Start</button>
+    <button id="stopBtn" disabled="true">Stop</button>
+    <script>
+        window.onload = function stopWatch() {
+            let startBtn = $('#startBtn');
+            let stoptBtn = $('#stopBtn');
+
+            let $div = $('#time');
+            
+            let seconds = 0;
+            let minutes = 0;
+
+            let timer;            
+            $('#startBtn').click(function(){                
+                $div.text(`00:00`);
+                timer = setInterval(updateTimer, 1000);
+                stoptBtn.attr('disabled', false);
+
+                function updateTimer(){
+                    seconds++;
+                    if(seconds == 60){
+                        minutes++;
+                        seconds = 0;
+                    }
+
+                    let formatedSeconds;
+                    let formatedMinutes
+                    if(seconds < 10){
+                        formatedSeconds = '0' + seconds;
+                    }else{
+                        formatedSeconds = seconds;
+                    }
+                    if(minutes < 10){
+                        formatedMinutes = '0' + minutes;
+                    }else{
+                        formatedMinutes = minutes;
+                    }
+                    $div.text(`${formatedMinutes}:${formatedSeconds}`);
+                    stoptBtn.click(function(){
+                        startBtn.attr('disabled', false);
+                        clearInterval(timer);
+                    });
+                }
+            });                        
+        }
+    </script>
+</body>
+</html>
