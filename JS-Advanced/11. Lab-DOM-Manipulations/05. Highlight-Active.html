@@ -1,0 +1,44 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Focus</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+    </script>
+  <style>
+    div { width: 470px; }
+    div div {
+      text-align: center;
+      display: inline-block;
+      width: 200px;
+      height: 200px;
+      margin: 15px;
+      border: 1px solid #999;
+    }
+    .focused { background: #999999; }
+  </style>
+</head>
+<body onload="focus()">
+  <div>
+    <div><h1>Section 1</h1><input type="text"/></div>
+    <div><h1>Section 2</h1><input type="text"/></div>
+    <div><h1>Section 3</h1><input type="text"/></div>
+    <div><h1>Section 4</h1><input type="text"/></div>
+  </div>
+  <script>
+    function focus() {
+        let elements = document.getElementsByTagName('input');
+        for (let element of elements) {
+            console.log(element);
+            element.addEventListener('focus',mouseOver);
+            element.addEventListener('blur', mouseOut);
+        }
+        function mouseOver(el){      
+            el.target.parentNode.className = 'focused';  
+        }
+        function mouseOut(el){            
+            el.target.parentNode.className = '';
+        }
+    }
+  </script>
+</body>
+</html>
