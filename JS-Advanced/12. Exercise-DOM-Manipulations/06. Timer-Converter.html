@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Time Converter</title>
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+  <style>
+    label, input {
+      display: inline-block;
+      width: 5em;
+    }
+    label {
+      text-align: right;
+    }
+  </style>
+</head>
+<body onload="attachEventsListeners()">
+<h1>Time Converter</h1>
+<div>
+  <label for="days">Days: </label>
+  <input type="text" id="days">
+  <input id="daysBtn" type="button" value="Convert">
+</div>
+<div>
+  <label for="hours">Hours: </label>
+  <input type="text" id="hours">
+  <input id="hoursBtn" type="button" value="Convert">
+</div>
+<div>
+  <label for="minutes">Minutes: </label>
+  <input type="text" id="minutes">
+  <input id="minutesBtn" type="button" value="Convert">
+</div>
+<div>
+  <label for="seconds">Seconds: </label>
+  <input type="text" id="seconds">
+  <input id="secondsBtn" type="button" value="Convert">
+</div>
+</body>
+<script>
+    function attachEventsListeners(){
+        let days;
+        let hours;
+        let minutes;
+        let seconds;
+        let buttons = $('input[value=Convert]').toArray();
+                   
+        $('#daysBtn').click(function(){
+            days = +$('#days').val();
+            hours = 24 * days;            
+            minutes = 60 * hours;
+            seconds = 60 * minutes;
+            applyData(days, hours, minutes, seconds);
+        });
+        $('#hoursBtn').click(function(){
+            hours = +$('#hours').val();
+            days = hours / 24;            
+            minutes = 60 * hours;
+            seconds = 60 * minutes;
+            applyData(days, hours, minutes, seconds);
+        });
+       
+        $('#minutesBtn').click(function(){
+            minutes = +$('#minutes').val();
+            hours = minutes / 60;
+            days = hours / 24;             
+            seconds = 60 * minutes;
+            applyData(days, hours, minutes, seconds);
+        });
+        $('#secondsBtn').click(function(){
+            seconds = +$('#seconds').val();
+            console.log(seconds);
+            minutes = seconds / 60;
+            hours = minutes / 60;
+            days = hours / 24;            
+            applyData(days, hours, minutes, seconds);
+        });
+        function applyData(days, hours, minutes, seconds){
+            $('#days').val(days);
+            $('#hours').val(hours);
+            $('#minutes').val(minutes);
+            $('#seconds').val(seconds);
+        }
+    }  
+</script>
+</html>
