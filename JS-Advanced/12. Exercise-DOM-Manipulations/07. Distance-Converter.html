@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Distance Converter</title>
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+  <script src="distanceConverter.js"></script>
+  <style>
+    label, input {
+      display: inline-block;
+      width: 5em;
+    }
+
+    label {
+      text-align: right;
+    }
+  </style>
+</head>
+<body onload="attachEventsListeners()">
+<h1>Distance Converter</h1>
+<div>
+  <label for="inputDistance">From:</label>
+  <input type="text" id="inputDistance">
+  <select id="inputUnits">
+    <option value="km">Kilometers</option>
+    <option value="m">Meters</option>
+    <option value="cm">Centimeters</option>
+    <option value="mm">Millimeters</option>
+    <option value="mi">Miles</option>
+    <option value="yrd">Yards</option>
+    <option value="ft">Feet</option>
+    <option value="in">Inches</option>
+  </select>
+  <input type="button" id="convert" value="Convert">
+</div>
+<div>
+  <label for="outputDistance">To:</label>
+  <input type="text" id="outputDistance" disabled="disabled">
+  <select id="outputUnits">
+    <option value="km">Kilometers</option>
+    <option value="m">Meters</option>
+    <option value="cm">Centimeters</option>
+    <option value="mm">Millimeters</option>
+    <option value="mi">Miles</option>
+    <option value="yrd">Yards</option>
+    <option value="ft">Feet</option>
+    <option value="in">Inches</option>
+  </select>
+</div>
+</body>
+<script>
+    function attachEventsListeners(){
+        $('#convert').click(function(){
+            let inputType = $('#inputUnits').val();
+            let outputType = $('#outputUnits').val();
+
+            let inputValue = $('#inputDistance').val();
+            let outputValue = 0;
+            if(isNaN(inputValue)){
+                let inputValue = +inputValue.toFixed(0);
+                return;
+            }
+            if(inputType == 'km'){
+                if(outputType == 'km'){            
+                    outputValue = inputValue;
+                } else if(outputType == 'm'){
+                    outputValue = inputValue * 1000;
+                } else if(outputType == 'cm'){
+                    outputValue = inputValue * 1000 * 100;
+                } else if(outputType == 'mm'){
+                    outputValue = inputValue * 1000 * 100 * 10;
+                } else if(outputType == 'mi'){
+                    outputValue = inputValue * 1000 / 1609.34;
+                } else if(outputType == 'yrd'){
+                    outputValue = inputValue * 1000 * 0.9144;
+                } else if(outputType == 'ft'){
+                    outputValue = inputValue * 1000 * 0.3048;
+                } else if(outputType == 'in'){
+                    outputValue = inputValue * 1000 * 0.0254;
+                }
+            }else if(inputType == 'm'){
+                if(outputType == 'km'){            
+                    outputValue = inputValue / 1000;
+                } else if(outputType == 'm'){
+                    outputValue = inputValue;
+                } else if(outputType == 'cm'){
+                    outputValue = inputValue * 100;
+                } else if(outputType == 'mm'){
+                    outputValue = inputValue * 100 * 10;
+                } else if(outputType == 'mi'){
+                    outputValue = inputValue / 1609.34;
+                } else if(outputType == 'yrd'){
+                    outputValue = inputValue / 0.9144;
+                } else if(outputType == 'ft'){
+                    outputValue = inputValue / 0.3048;
+                } else if(outputType == 'in'){
+                    outputValue = inputValue / 0.0254;
+                }
+            }else if(inputType == 'cm'){
+                if(outputType == 'km'){            
+                    outputValue = inputValue / 100000;
+                } else if(outputType == 'm'){
+                    outputValue = inputValue / 100;
+                } else if(outputType == 'cm'){
+                    outputValue = inputValue;
+                } else if(outputType == 'mm'){
+                    outputValue = inputValue * 10;
+                } else if(outputType == 'mi'){
+                    outputValue = inputValue / 100 / 1609.34;
+                } else if(outputType == 'yrd'){
+                    outputValue = inputValue / 100 / 0.9144;
+                } else if(outputType == 'ft'){
+                    outputValue = inputValue / 100 / 0.3048;
+                } else if(outputType == 'in'){
+                    outputValue = inputValue / 100 / 0.0254;
+                }
+            }else if(inputType == 'mm'){
+                if(outputType == 'km'){            
+                    outputValue = inputValue / 10 / 100000;
+                } else if(outputType == 'm'){
+                    outputValue = inputValue * 10 / 100;
+                } else if(outputType == 'cm'){
+                    outputValue = inputValue * 10;
+                } else if(outputType == 'mm'){
+                    outputValue = inputValue;
+                } else if(outputType == 'mi'){
+                    outputValue = inputValue * 10 / 100 / 1609.34;
+                } else if(outputType == 'yrd'){
+                    outputValue = inputValue * 10 / 100 / 0.9144;
+                } else if(outputType == 'ft'){
+                    outputValue = inputValue * 10 / 100 / 0.3048;
+                } else if(outputType == 'in'){
+                    outputValue = inputValue * 10 / 100 / 0.0254;
+                }
+            }else if(inputType == 'mi'){
+                if(outputType == 'km'){            
+                    outputValue = inputValue * 1609.344 / 1000;
+                } else if(outputType == 'm'){
+                    outputValue = inputValue * 1609.344;
+                } else if(outputType == 'cm'){
+                    outputValue = inputValue * 1609.344 * 100;
+                } else if(outputType == 'mm'){
+                    outputValue = inputValue * 1609.344 * 1000;
+                } else if(outputType == 'mi'){
+                    outputValue = inputValue;
+                } else if(outputType == 'yrd'){
+                    outputValue = inputValue * 1609.344 / 0.9144;
+                } else if(outputType == 'ft'){
+                    outputValue = inputValue * 1609.344 / 0.3048;
+                } else if(outputType == 'in'){
+                    outputValue = inputValue * 1609.344 / 0.0254;
+                }
+            }else if(inputType == 'yrd'){
+                if(outputType == 'km'){            
+                    outputValue = inputValue * 0.9144 / 1000;
+                } else if(outputType == 'm'){
+                    outputValue = inputValue * 0.9144;
+                } else if(outputType == 'cm'){
+                    outputValue = inputValue * 0.9144 * 100;
+                } else if(outputType == 'mm'){
+                    outputValue = inputValue * 0.9144 * 1000;
+                } else if(outputType == 'mi'){
+                    outputValue = inputValue * 0.9144 / 1609.34;
+                } else if(outputType == 'yrd'){
+                    outputValue = inputValue;
+                } else if(outputType == 'ft'){
+                    outputValue = inputValue * 0.9144 / 0.3048;
+                } else if(outputType == 'in'){
+                    outputValue = inputValue * 0.9144 / 0.0254;
+                }
+            }else if(inputType == 'ft'){
+                if(outputType == 'km'){            
+                    outputValue = inputValue * 0.3048 / 1000;
+                } else if(outputType == 'm'){
+                    outputValue = inputValue * 0.3048;
+                } else if(outputType == 'cm'){
+                    outputValue = inputValue * 0.3048 * 100;
+                } else if(outputType == 'mm'){
+                    outputValue = inputValue * 0.3048 * 1000;
+                } else if(outputType == 'mi'){
+                    outputValue = inputValue * 0.3048 / 1609.34;
+                } else if(outputType == 'yrd'){
+                    outputValue = inputValue * 0.3048 / 0.9144;
+                } else if(outputType == 'ft'){
+                    outputValue = inputValue;
+                } else if(outputType == 'in'){
+                    outputValue = inputValue * 0.3048 / 0.0254;
+                }
+            }else if(inputType == 'in'){
+                if(outputType == 'km'){            
+                    outputValue = inputValue * 0.0254 / 1000;
+                } else if(outputType == 'm'){
+                    outputValue = inputValue * 0.0254;
+                } else if(outputType == 'cm'){
+                    outputValue = inputValue * 0.0254 * 100;
+                } else if(outputType == 'mm'){
+                    outputValue = inputValue * 0.0254 * 1000;
+                } else if(outputType == 'mi'){
+                    outputValue = inputValue * 0.0254 / 1609.34;
+                } else if(outputType == 'yrd'){
+                    outputValue = inputValue * 0.0254 / 0.9144;
+                } else if(outputType == 'ft'){
+                    outputValue = inputValue * 0.0254 / 0.3048;
+                } else if(outputType == 'in'){
+                    outputValue = inputValue;
+                }
+            }            
+            $('#outputDistance').val(outputValue);
+        });        
+    }
+</script>
+</html>
