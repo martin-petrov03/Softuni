@@ -1,0 +1,13 @@
+{{#each cats}}
+    <div class="card col-md-4">
+        <img class="card-img-center" src="./images/{{imageLocation}}.jpg" width="250" height="250" alt="Card image cap">
+        <h1>{{imageLocation}}</h1>
+        <div class="card-block">
+            <button class="btn btn-primary" onclick="loadMoreInfo({{statusCode}})">Show status code</button>
+            <div style="display: none" id="{{statusCode}}">
+                <h4 class="card-title">Status Code: {{statusCode}}</h4>
+                <p class="card-text">statusMessage</p>
+            </div>
+        </div>
+    </div>
+{{/each}}
