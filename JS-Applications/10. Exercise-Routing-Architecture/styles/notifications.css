@@ -1,0 +1,28 @@
+#notifications{    
+    float: left;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 10px;
+    text-align: center;
+}
+
+.notifications{
+    display: none;
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+    background: rgb(43, 172, 39);
+}
+
+#loading{
+    background: rgb(43, 172, 39);
+}
+
+#info{
+    background: rgb(43, 172, 39);
+}
+
+#error{
+    background: rgb(204, 65, 60);
+}
