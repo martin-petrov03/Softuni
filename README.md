@@ -10,6 +10,7 @@
       <li>JS Fundamentals - JavaScript</li>
       <li>JS Advanced - JavaScript</li>
       <li>JS Applications - JavaScript</li>
+      <li>C# Advanced</li>
     </ul>
   </body>
 </html>
