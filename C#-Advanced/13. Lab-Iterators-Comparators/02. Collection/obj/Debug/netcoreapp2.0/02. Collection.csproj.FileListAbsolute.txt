@@ -1,0 +1,10 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\bin\Debug\netcoreapp2.0\02. Collection.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\bin\Debug\netcoreapp2.0\02. Collection.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\bin\Debug\netcoreapp2.0\02. Collection.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\bin\Debug\netcoreapp2.0\02. Collection.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\bin\Debug\netcoreapp2.0\02. Collection.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\obj\Debug\netcoreapp2.0\02. Collection.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\obj\Debug\netcoreapp2.0\02. Collection.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\obj\Debug\netcoreapp2.0\02. Collection.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\obj\Debug\netcoreapp2.0\02. Collection.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\13. Lab-Iterators-Comparators\IteratorsComparators\02. Collection\obj\Debug\netcoreapp2.0\02. Collection.pdb
