@@ -1,0 +1,22 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.pdb
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.deps.json
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.runtimeconfig.json
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.runtimeconfig.dev.json
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.dll
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\bin\Debug\netcoreapp2.0\LaptopShop.pdb
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.csprojAssemblyReference.cache
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.csproj.CoreCompileInputs.cache
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.AssemblyInfoInputs.cache
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.AssemblyInfo.cs
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.dll
+E:\Git\su\C#-Advanced\Workshop\Workshop\LaptopShop\obj\Debug\netcoreapp2.0\LaptopShop.pdb
