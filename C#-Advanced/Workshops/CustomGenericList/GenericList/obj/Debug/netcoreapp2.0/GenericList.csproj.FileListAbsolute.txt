@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\bin\Debug\netcoreapp2.0\GenericList.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\bin\Debug\netcoreapp2.0\GenericList.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\bin\Debug\netcoreapp2.0\GenericList.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\bin\Debug\netcoreapp2.0\GenericList.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\bin\Debug\netcoreapp2.0\GenericList.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\obj\Debug\netcoreapp2.0\GenericList.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\obj\Debug\netcoreapp2.0\GenericList.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\obj\Debug\netcoreapp2.0\GenericList.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\obj\Debug\netcoreapp2.0\GenericList.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\obj\Debug\netcoreapp2.0\GenericList.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomGenericList\GenericList\obj\Debug\netcoreapp2.0\GenericList.pdb
