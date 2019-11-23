@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\obj\Debug\netcoreapp2.0\CustomList.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\obj\Debug\netcoreapp2.0\CustomList.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\obj\Debug\netcoreapp2.0\CustomList.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\obj\Debug\netcoreapp2.0\CustomList.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\bin\Debug\netcoreapp2.0\CustomList.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\bin\Debug\netcoreapp2.0\CustomList.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\bin\Debug\netcoreapp2.0\CustomList.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\bin\Debug\netcoreapp2.0\CustomList.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\bin\Debug\netcoreapp2.0\CustomList.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\obj\Debug\netcoreapp2.0\CustomList.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Workshop\CustomList\CustomList\obj\Debug\netcoreapp2.0\CustomList.pdb
