@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-1\ExamPreparation\03.Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb
