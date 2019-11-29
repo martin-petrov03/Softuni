@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\bin\Debug\netcoreapp2.0\02.HelenAbduction.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\bin\Debug\netcoreapp2.0\02.HelenAbduction.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\bin\Debug\netcoreapp2.0\02.HelenAbduction.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\bin\Debug\netcoreapp2.0\02.HelenAbduction.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\bin\Debug\netcoreapp2.0\02.HelenAbduction.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\obj\Debug\netcoreapp2.0\02.HelenAbduction.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\obj\Debug\netcoreapp2.0\02.HelenAbduction.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\obj\Debug\netcoreapp2.0\02.HelenAbduction.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\obj\Debug\netcoreapp2.0\02.HelenAbduction.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\obj\Debug\netcoreapp2.0\02.HelenAbduction.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\02.HelenAbduction\obj\Debug\netcoreapp2.0\02.HelenAbduction.csprojAssemblyReference.cache
