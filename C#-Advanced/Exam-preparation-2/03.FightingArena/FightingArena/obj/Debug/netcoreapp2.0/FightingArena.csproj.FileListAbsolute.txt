@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam-preparation-2\ExamPreparation\03.FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.pdb
