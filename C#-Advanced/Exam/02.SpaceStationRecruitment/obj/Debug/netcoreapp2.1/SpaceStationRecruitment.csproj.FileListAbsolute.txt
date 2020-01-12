@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\02.SpaceStationRecruitment\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
