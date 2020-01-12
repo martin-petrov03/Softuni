@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\bin\Debug\netcoreapp2.0\01.SpaceshipCrafting.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\bin\Debug\netcoreapp2.0\01.SpaceshipCrafting.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\bin\Debug\netcoreapp2.0\01.SpaceshipCrafting.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\bin\Debug\netcoreapp2.0\01.SpaceshipCrafting.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\bin\Debug\netcoreapp2.0\01.SpaceshipCrafting.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\obj\Debug\netcoreapp2.0\01.SpaceshipCrafting.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\obj\Debug\netcoreapp2.0\01.SpaceshipCrafting.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\obj\Debug\netcoreapp2.0\01.SpaceshipCrafting.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\obj\Debug\netcoreapp2.0\01.SpaceshipCrafting.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\obj\Debug\netcoreapp2.0\01.SpaceshipCrafting.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\01.SpaceshipCrafting\obj\Debug\netcoreapp2.0\01.SpaceshipCrafting.pdb
