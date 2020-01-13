@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.0\03.SpaceStationEstablishment.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.0\03.SpaceStationEstablishment.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.0\03.SpaceStationEstablishment.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.0\03.SpaceStationEstablishment.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\bin\Debug\netcoreapp2.0\03.SpaceStationEstablishment.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.0\03.SpaceStationEstablishment.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.0\03.SpaceStationEstablishment.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.0\03.SpaceStationEstablishment.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.0\03.SpaceStationEstablishment.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.0\03.SpaceStationEstablishment.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-Advanced\Exam\Exam\03.SpaceStationEstablishment\obj\Debug\netcoreapp2.0\03.SpaceStationEstablishment.pdb
