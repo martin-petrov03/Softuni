@@ -5,12 +5,13 @@
     <p>Here I have uploaded all of my homeworks and projects from <a href="https://softuni.bg/">Softuni</a>. Assignments can be found on <a href="https://judge.softuni.bg/">Judge</a>.</p>
     <h2>Courses</h2>
     <ul>
-      <li>Programming Basics - C#</li>
-      <li>Technology Fundamentals - PHP</li>
-      <li>JS Fundamentals - JavaScript</li>
-      <li>JS Advanced - JavaScript</li>
-      <li>JS Applications - JavaScript</li>
-      <li>C# Advanced - C#</li>
+      <li>Programming Basics C#</li>
+      <li>Technology Fundamentals PHP</li>
+      <li>JavaScript Fundamentals</li>
+      <li>JavaScript Advanced</li>
+      <li>JavaScript Applications</li>
+      <li>C# Advanced</li>
+      <li>C# OOP</li>
     </ul>
   </body>
 </html>
