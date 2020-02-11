@@ -1,0 +1,4 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\05. Lab-Encapsulation\Encapsulation\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\05. Lab-Encapsulation\Encapsulation\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\05. Lab-Encapsulation\Encapsulation\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\05. Lab-Encapsulation\Encapsulation\02.Salary\obj\Debug\netcoreapp2.0\02.Salary.AssemblyInfo.cs
