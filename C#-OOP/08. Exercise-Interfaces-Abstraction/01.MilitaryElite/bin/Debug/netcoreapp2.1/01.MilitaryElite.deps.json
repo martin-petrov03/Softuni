@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "b6a987f0916c0d09bf5b004e9938169c110b5ba4"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "01.MilitaryElite/1.0.0": {
+        "dependencies": {
+          "StyleCop.MSBuild": "6.1.0"
+        },
+        "runtime": {
+          "01.MilitaryElite.dll": {}
+        }
+      },
+      "StyleCop.MSBuild/6.1.0": {}
+    }
+  },
+  "libraries": {
+    "01.MilitaryElite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StyleCop.MSBuild/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qiGg5zeD5QwgxpmV/BUUBMEtSBT29PBQF43jGKTkX4JTwNBu2/bLVIgcu3V3V1ZmT4moPBAc6iwAnXRl5noOMA==",
+      "path": "stylecop.msbuild/6.1.0",
+      "hashPath": "stylecop.msbuild.6.1.0.nupkg.sha512"
+    }
+  }
+}
