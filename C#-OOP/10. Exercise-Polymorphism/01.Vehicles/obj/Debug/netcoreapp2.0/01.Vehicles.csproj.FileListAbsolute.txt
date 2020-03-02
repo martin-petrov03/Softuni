@@ -1,0 +1,4 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\10. Exercise-Polymorphism\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\10. Exercise-Polymorphism\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\10. Exercise-Polymorphism\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\10. Exercise-Polymorphism\Polymorphism\01.Vehicles\obj\Debug\netcoreapp2.0\01.Vehicles.AssemblyInfo.cs
