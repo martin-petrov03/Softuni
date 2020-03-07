@@ -1,0 +1,25 @@
+<log>
+    <date>3/26/2015</date>
+    <level>Info</level>
+    <message>2:08:11</message>
+</log>
+<log>
+    <date>3/26/2015</date>
+    <level>Warning</level>
+    <message>2:22:13</message>
+</log>
+<log>
+    <date>3/26/2015</date>
+    <level>Error</level>
+    <message>2:32:44</message>
+</log>
+<log>
+    <date>3/26/2015</date>
+    <level>Critical</level>
+    <message>2:38:01</message>
+</log>
+<log>
+    <date>3/26/2015</date>
+    <level>Fatal</level>
+    <message>2:39:19</message>
+</log>
