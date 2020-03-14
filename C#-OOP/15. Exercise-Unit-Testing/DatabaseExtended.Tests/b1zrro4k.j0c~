@@ -1,0 +1,73 @@
+using System;
+using ExtendedDataStorage;
+using NUnit.Framework;
+
+namespace Tests
+{
+    public class ExtendedDatabaseTests
+    {
+        [SetUp]
+        public void Setup()
+        {
+        }
+
+        [Test]
+        public void ConstructorShouldBeInitializedWith16Elements()
+        {
+            ExtendedDatabase db = new ExtendedDatabase();
+
+            Assert.AreEqual(0, db.Count);
+        }
+
+        [Test]
+        public void ConstructorShouldBeInitializedWithGivenPeople()
+        {
+            Person[] array = new Person[]
+            {
+                new Person(123321, "dsad")
+            };
+
+            ExtendedDatabase db = new ExtendedDatabase(array);
+            Assert.AreEqual(1, db.Count);
+        }
+
+        [Test]
+        public void ConstructorShouldThrowArgumentException()
+        {
+            Person[] array = new Person[17];
+
+            Assert
+                .Throws<ArgumentException>(() =>
+                {
+                    ExtendedDatabase db = new ExtendedDatabase(array);
+                });
+        }
+
+        [TestCase(1, "aaa", 2, "aaa")]
+        [TestCase(1, "aaa", 1, "bbb")]
+        [TestCase(1, "aaa", 1, "aaa")]
+        public void AddMethodShouldThrowInvalidOperationException(long id1, string userName1, long id2, string userName2)
+        {
+            Person[] array = new Person[]
+            {
+                new Person(id1, userName1)               
+            };
+
+            ExtendedDatabase db = new ExtendedDatabase(array);
+            
+            Assert
+                .Throws<InvalidOperationException>(() => db.Add(new Person(id2, userName2)));
+        }
+
+        [Test]
+        public void AddMethodShouldThrowInvalidOperationException()
+        {
+            Person[] array = new Person[15];
+
+            ExtendedDatabase db = new ExtendedDatabase(array);
+
+            Assert
+                .Throws<InvalidOperationException>(() => db.Add(new Person(12, "aaa")));
+        }
+    }
+}
