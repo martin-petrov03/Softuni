@@ -1,0 +1,13 @@
+﻿namespace Chainblock
+{
+    using Chainblock.Contracts;
+
+    public class Transaction : ITransaction
+    {
+        public int Id { get; set; }
+        public TransactionStatus Status { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+        public string From { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+        public string To { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+        public double Amount { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+    }
+}
