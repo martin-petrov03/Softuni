@@ -1,0 +1,17 @@
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfoInputs.cache
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfo.cs
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.deps.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.runtimeconfig.dev.json
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\bin\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.dll
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.pdb
+C:\Users\Mariela\source\repos\OOP-Exam-FInal\OOP-Exam-FInal\obj\Debug\netcoreapp2.1\ViceCity.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\20. Exam-preparation-2\Project\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\20. Exam-preparation-2\Project\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\20. Exam-preparation-2\Project\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\20. Exam-preparation-2\Project\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\20. Exam-preparation-2\Project\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\C#-OOP\20. Exam-preparation-2\Project\ViceCity\obj\Debug\netcoreapp2.1\ViceCity.pdb
