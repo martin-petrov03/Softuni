@@ -12,6 +12,7 @@
       <li>JavaScript Applications</li>
       <li>C# Advanced</li>
       <li>C# OOP</li>
+      <li>MS SQL</li>
     </ul>
   </body>
 </html>
