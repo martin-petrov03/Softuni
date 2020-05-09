@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\bin\Debug\netcoreapp2.0\02.VillainNames.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\02.VillainNames\obj\Debug\netcoreapp2.0\02.VillainNames.pdb
