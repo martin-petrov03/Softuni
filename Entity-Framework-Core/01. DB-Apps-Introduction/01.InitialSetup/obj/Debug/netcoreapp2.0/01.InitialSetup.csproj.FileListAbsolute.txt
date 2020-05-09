@@ -1,0 +1,11 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\bin\Debug\netcoreapp2.0\01.InitialSetup.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\bin\Debug\netcoreapp2.0\01.InitialSetup.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\bin\Debug\netcoreapp2.0\01.InitialSetup.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\bin\Debug\netcoreapp2.0\01.InitialSetup.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\obj\Debug\netcoreapp2.0\01.InitialSetup.csprojAssemblyReference.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\obj\Debug\netcoreapp2.0\01.InitialSetup.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\obj\Debug\netcoreapp2.0\01.InitialSetup.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\obj\Debug\netcoreapp2.0\01.InitialSetup.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\bin\Debug\netcoreapp2.0\01.InitialSetup.pdb
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\obj\Debug\netcoreapp2.0\01.InitialSetup.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\01.InitialSetup\obj\Debug\netcoreapp2.0\01.InitialSetup.pdb
