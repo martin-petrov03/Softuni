@@ -1,0 +1,8 @@
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.csproj.CoreCompileInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.AssemblyInfoInputs.cache
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.AssemblyInfo.cs
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\06.RemoveVillain\bin\Debug\netcoreapp2.0\06.RemoveVillain.deps.json
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\06.RemoveVillain\bin\Debug\netcoreapp2.0\06.RemoveVillain.runtimeconfig.json
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\06.RemoveVillain\bin\Debug\netcoreapp2.0\06.RemoveVillain.runtimeconfig.dev.json
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\06.RemoveVillain\bin\Debug\netcoreapp2.0\06.RemoveVillain.dll
+E:\ALL FOR PROGRAMING\SOFTUNI\Entity-Framework-Core\01.DB-Apps-Introduction\ADO.NET-Demo\06.RemoveVillain\obj\Debug\netcoreapp2.0\06.RemoveVillain.csprojAssemblyReference.cache
