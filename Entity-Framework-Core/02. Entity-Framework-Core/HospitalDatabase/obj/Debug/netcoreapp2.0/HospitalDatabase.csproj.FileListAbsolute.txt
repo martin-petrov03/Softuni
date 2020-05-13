@@ -1,0 +1,8 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\02. Entity-Framework-Core\Code-First\HospitalDatabase\bin\Debug\netcoreapp2.0\HospitalDatabase.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\02. Entity-Framework-Core\Code-First\HospitalDatabase\bin\Debug\netcoreapp2.0\HospitalDatabase.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\02. Entity-Framework-Core\Code-First\HospitalDatabase\bin\Debug\netcoreapp2.0\HospitalDatabase.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\02. Entity-Framework-Core\Code-First\HospitalDatabase\bin\Debug\netcoreapp2.0\HospitalDatabase.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\02. Entity-Framework-Core\Code-First\HospitalDatabase\obj\Debug\netcoreapp2.0\HospitalDatabase.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\02. Entity-Framework-Core\Code-First\HospitalDatabase\obj\Debug\netcoreapp2.0\HospitalDatabase.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\02. Entity-Framework-Core\Code-First\HospitalDatabase\obj\Debug\netcoreapp2.0\HospitalDatabase.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\02. Entity-Framework-Core\Code-First\HospitalDatabase\obj\Debug\netcoreapp2.0\HospitalDatabase.AssemblyInfo.cs
