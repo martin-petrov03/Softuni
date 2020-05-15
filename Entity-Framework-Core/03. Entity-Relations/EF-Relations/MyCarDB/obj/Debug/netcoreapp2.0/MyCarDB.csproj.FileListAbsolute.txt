@@ -1,0 +1,11 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\bin\Debug\netcoreapp2.0\MyCarDB.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\bin\Debug\netcoreapp2.0\MyCarDB.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\bin\Debug\netcoreapp2.0\MyCarDB.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\bin\Debug\netcoreapp2.0\MyCarDB.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\obj\Debug\netcoreapp2.0\MyCarDB.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\obj\Debug\netcoreapp2.0\MyCarDB.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\obj\Debug\netcoreapp2.0\MyCarDB.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\obj\Debug\netcoreapp2.0\MyCarDB.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\bin\Debug\netcoreapp2.0\MyCarDB.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\obj\Debug\netcoreapp2.0\MyCarDB.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\EF-Relations\MyCarDB\obj\Debug\netcoreapp2.0\MyCarDB.pdb
