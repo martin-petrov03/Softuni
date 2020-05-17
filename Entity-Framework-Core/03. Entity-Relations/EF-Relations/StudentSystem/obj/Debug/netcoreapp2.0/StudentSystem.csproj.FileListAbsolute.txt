@@ -1,0 +1,11 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystem.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\03. Entity-Relations\StudentSystem\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystem.pdb
