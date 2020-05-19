@@ -1,0 +1,4 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\04. Advanced-Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\04. Advanced-Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\04. Advanced-Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\04. Advanced-Querying\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfo.cs
