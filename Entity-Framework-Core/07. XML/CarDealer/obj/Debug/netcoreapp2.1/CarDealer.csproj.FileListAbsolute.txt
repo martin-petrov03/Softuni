@@ -1,0 +1,11 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\07. XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
