@@ -1,0 +1,11 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\bin\Debug\netcoreapp2.0\CompositePattern.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\CompositePattern\obj\Debug\netcoreapp2.0\CompositePattern.pdb
