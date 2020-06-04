@@ -1,0 +1,11 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.0\PrototypePattern.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\08. Design-Patterns\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.0\PrototypePattern.pdb
