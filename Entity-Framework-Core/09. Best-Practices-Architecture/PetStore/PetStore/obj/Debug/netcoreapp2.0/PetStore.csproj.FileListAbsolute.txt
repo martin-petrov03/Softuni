@@ -1,0 +1,11 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\bin\Debug\netcoreapp2.0\PetStore.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\bin\Debug\netcoreapp2.0\PetStore.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\bin\Debug\netcoreapp2.0\PetStore.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\bin\Debug\netcoreapp2.0\PetStore.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\bin\Debug\netcoreapp2.0\PetStore.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\obj\Debug\netcoreapp2.0\PetStore.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\obj\Debug\netcoreapp2.0\PetStore.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\obj\Debug\netcoreapp2.0\PetStore.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\obj\Debug\netcoreapp2.0\PetStore.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\obj\Debug\netcoreapp2.0\PetStore.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore\obj\Debug\netcoreapp2.0\PetStore.pdb
