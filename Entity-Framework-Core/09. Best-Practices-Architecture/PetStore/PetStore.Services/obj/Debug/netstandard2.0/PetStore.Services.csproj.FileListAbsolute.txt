@@ -1,0 +1,16 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Services.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Data.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Models.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\bin\Debug\netstandard2.0\PetStoreServices.Models.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Data.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\bin\Debug\netstandard2.0\PetStore.Models.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\bin\Debug\netstandard2.0\PetStoreServices.Models.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\PetStore.Services\obj\Debug\netstandard2.0\PetStore.Services.csproj.CopyComplete
