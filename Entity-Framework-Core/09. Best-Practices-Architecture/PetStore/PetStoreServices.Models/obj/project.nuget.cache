@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LyBRc/RZl21vKGplgkMRKc2XanNyYAACKXviUJccHTCY3DBjaxdmz53icevW2BP4FHk5Lhl7IbjUFxzNfvY7kg==",
+  "success": true,
+  "projectFilePath": "E:\\PROGRAMING\\SOFTUNI\\Entity-Framework-Core\\09. Best-Practices-Architecture\\PetStore\\PetStoreServices.Models\\PetStoreServices.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin-Petrov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
