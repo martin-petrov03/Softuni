@@ -1,0 +1,93 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Web.exe
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Web.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Web.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Web.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Web.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Web.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Web.Views.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Web.Views.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.RazorAssemblyInfo.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.RazorAssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.TagHelpers.input.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.TagHelpers.output.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.RazorCoreGenerate.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.RazorTargetAssemblyInfo.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.RazorTargetAssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.Views.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\staticwebassets\PetStore.Web.StaticWebAssets.Manifest.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\staticwebassets\PetStore.Web.StaticWebAssets.xml
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.genruntimeconfig.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\obj\Debug\netcoreapp3.1\PetStore.Web.csproj.CopyComplete
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Collections.Concurrent (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.ComponentModel (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.IO.FileSystem.Primitives (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Linq (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Reflection.Emit (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Reflection.Emit.ILGeneration (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Reflection.Emit.Lightweight (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Reflection.TypeExtensions (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Primitives (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Text.RegularExpressions (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Threading (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Threading.Tasks.Extensions (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Xml.ReaderWriter (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\System.Xml.XDocument (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Globalization.Extensions (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Globalization.Extensions (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Net.NameResolution (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Net.NameResolution (1).dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Data.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Models.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Services.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStoreServices.Models.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Data.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStore.Models.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\09. Best-Practices-Architecture\PetStore\Web\PetStore.Web\bin\Debug\netcoreapp3.1\PetStoreServices.Models.pdb
