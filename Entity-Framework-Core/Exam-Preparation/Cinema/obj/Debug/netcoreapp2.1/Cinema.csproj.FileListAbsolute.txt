@@ -1,0 +1,12 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\Exam-Preparation\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.genruntimeconfig.cache
