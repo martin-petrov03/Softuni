@@ -1,0 +1,12 @@
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\obj\Debug\netcoreapp2.1\BookShop.genruntimeconfig.cache
+E:\PROGRAMING\SOFTUNI\Entity-Framework-Core\EXAM\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
