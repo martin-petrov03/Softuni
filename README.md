@@ -2,7 +2,7 @@
   <body>
     <img src="https://softuni.bg/content/images/svg-logos/software-university-logo.svg" alt="logo-img">
     <h1>Softuni</h1>
-    <p>Here I have uploaded all of my homeworks and projects from <a href="https://softuni.bg/">Softuni</a>. Assignments can be found on <a href="https://judge.softuni.bg/">Judge</a>.</p>
+    <p>Here are all of my homeworks and projects from <a href="https://softuni.bg/">Softuni</a>. Assignments can be found on <a href="https://judge.softuni.bg/">Judge</a>.</p>
     <h2>Courses</h2>
     <ul>
       <li>Programming Basics C#</li>
@@ -13,6 +13,7 @@
       <li>C# Advanced</li>
       <li>C# OOP</li>
       <li>MS SQL</li>
+      <li>Entity Framework</li>
     </ul>
   </body>
 </html>
