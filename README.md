@@ -14,6 +14,7 @@
       <li>C# OOP</li>
       <li>MS SQL</li>
       <li>Entity Framework</li>
+      <li>Node.js&ExpressJs</li>
     </ul>
   </body>
 </html>
