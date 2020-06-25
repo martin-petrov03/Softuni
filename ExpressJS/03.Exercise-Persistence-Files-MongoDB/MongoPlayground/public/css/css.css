@@ -1,0 +1,38 @@
+img {
+    max-width: 400px;
+}
+
+.tag{
+    float: left;
+    width: 10%;
+}
+
+#headline{
+    text-align: center;
+    text-decoration: rgb(24, 28, 63)
+}
+
+.image{
+    width: 49%;    
+    display: inline-block;
+    word-wrap: break-word;
+    padding-left: 12.5px;
+}
+
+.imageUrl{
+    text-align: center;
+    margin-left: 60px;
+}
+
+.imageDate{
+    margin-left: 50px;
+}
+
+.imageDescription{
+    width: 40%;
+    height: 200px;
+    text-align: center;
+    margin-left: 72.5px;
+    overflow:hidden;
+    text-overflow: ellipsis;
+}
